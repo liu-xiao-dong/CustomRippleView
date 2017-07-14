@@ -19,9 +19,9 @@
 ![CustomRippleView](https://github.com/liu-xiao-dong/CustomRippleView/blob/master/screenshot/screen_shot.gif?raw=true) 
 
 使用方法：
-` `` java
-<com.lxd.rippleview.RippleView
-
+ 
+` ``Java
+	<com.lxd.rippleview.RippleView
         android:id="@+id/ripple_view"
         android:layout_centerInParent="true"
         android:layout_width="150dp"   
