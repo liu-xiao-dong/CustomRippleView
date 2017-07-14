@@ -4,12 +4,6 @@
 
 
 
-### apk安装 ：
-[https://github.com/liu-xiao-dong/JD-Test/raw/master/app/app-release.apk](https://github.com/liu-xiao-dong/JD-Test/raw/master/app/app-release.apk)  
-
-
-
-
 ### Specs
   [![API](https://img.shields.io/badge/API-11%2B-blue.svg?style=flat)](https://img.shields.io/badge/API-11%2B-blue.svg?style=flat) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
