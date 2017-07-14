@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RippleView">
+
+        <attr name="stroke_width" format="dimension" />
+        <attr name="ripple_duration" format="integer" />
+        <attr name="repeat_count" format="integer" />
+
+        <!--同时显示的最大圆环数量-->
+        <attr name="circle_num" format="integer" />
+        <!--最大半径倍数-->
+        <attr name="max_radius_multiple" format="float" />
+        <attr name="circle_color" format="color" />
+
+    </declare-styleable>
+</resources>
