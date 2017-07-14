@@ -19,8 +19,9 @@
 ![CustomRippleView](https://github.com/liu-xiao-dong/CustomRippleView/blob/master/screenshot/screen_shot.gif?raw=true) 
 
 使用方法：
-
+` `` java
 <com.lxd.rippleview.RippleView
+
         android:id="@+id/ripple_view"
         android:layout_centerInParent="true"
         android:layout_width="150dp"   
@@ -31,7 +32,7 @@
         app:stroke_width="1dp"  //圆环宽度
         app:max_radius_multiple="2"   //最大圆环半径相对原始半径的倍数
         />
-
+` `` 
 
 在父布局中添加： android:clipChildren="false"
 
