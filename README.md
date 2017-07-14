@@ -16,7 +16,7 @@
 
 效果图：
 
-![CustomRippleView](https://github.com/liu-xiao-dong/CustomRippleView/blob/master/screenshot/screenshot.gif?raw=true) 
+![CustomRippleView](https://github.com/liu-xiao-dong/CustomRippleView/tree/master/screenshot/screenshot.gif?raw=true) 
 
 使用方法：
 
