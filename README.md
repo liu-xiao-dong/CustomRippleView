@@ -12,6 +12,12 @@
 
 ![CustomRippleView](https://github.com/liu-xiao-dong/CustomRippleView/blob/master/screenshot/screen_shot.gif?raw=true) 
 
+gradle依赖：
+
+```
+compile 'com.lxd:rippleview:1.0.0'
+```
+
 使用方法：
  
 ```
